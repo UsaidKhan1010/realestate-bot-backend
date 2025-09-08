@@ -1,11 +1,2 @@
-fastapi
-uvicorn
-pandas
-python-dotenv
-openai
-google-api-python-client
-google-auth
-google-auth-oauthlib
-google-auth-httplib2
+﻿streamlit
 requests
-python-multipart
