@@ -6,6 +6,6 @@ openai
 google-api-python-client
 google-auth
 google-auth-oauthlib
-google-auth-httplb2
+google-auth-httplib2
 requests
 python-multipart
