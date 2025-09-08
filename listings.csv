@@ -1,0 +1,11 @@
+id,location,price,type,bedrooms,link
+1,Downtown,450000,Apartment,2,http://example.com/1
+2,Midtown,520000,Apartment,3,http://example.com/2
+3,Suburbs,300000,House,2,http://example.com/3
+4,City Center,750000,Condo,3,http://example.com/4
+5,Riverside,600000,Villa,4,http://example.com/5
+6,Downtown,480000,Apartment,2,http://example.com/6
+7,Beachside,1200000,Villa,5,http://example.com/7
+8,Old Town,350000,Apartment,1,http://example.com/8
+9,Midtown,400000,Apartment,2,http://example.com/9
+10,Suburbs,280000,House,2,http://example.com/10
