@@ -1,6 +1,4 @@
-﻿
-@"
-fastapi
+﻿fastapi
 uvicorn
 pandas
 python-dotenv
