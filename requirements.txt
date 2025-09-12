@@ -1,8 +1,11 @@
-﻿fastapi
-uvicorn
+numpy
+scikit-learn
+tqdm
+﻿openai
 pandas
+fastapi
+uvicorn
 python-dotenv
-openai
 google-api-python-client
 google-auth
 google-auth-oauthlib
