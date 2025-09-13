@@ -1,0 +1,92 @@
+[
+  {
+    "id": "listing_0",
+    "source": "listing",
+    "text": "Downtown | 2 BR | $450000 | ",
+    "location": "Downtown",
+    "price": 450000,
+    "bedrooms": 2,
+    "link": "http://example.com/1"
+  },
+  {
+    "id": "listing_1",
+    "source": "listing",
+    "text": "Midtown | 3 BR | $520000 | ",
+    "location": "Midtown",
+    "price": 520000,
+    "bedrooms": 3,
+    "link": "http://example.com/2"
+  },
+  {
+    "id": "listing_2",
+    "source": "listing",
+    "text": "Suburbs | 2 BR | $300000 | ",
+    "location": "Suburbs",
+    "price": 300000,
+    "bedrooms": 2,
+    "link": "http://example.com/3"
+  },
+  {
+    "id": "listing_3",
+    "source": "listing",
+    "text": "City Center | 3 BR | $750000 | ",
+    "location": "City Center",
+    "price": 750000,
+    "bedrooms": 3,
+    "link": "http://example.com/4"
+  },
+  {
+    "id": "listing_4",
+    "source": "listing",
+    "text": "Riverside | 4 BR | $600000 | ",
+    "location": "Riverside",
+    "price": 600000,
+    "bedrooms": 4,
+    "link": "http://example.com/5"
+  },
+  {
+    "id": "listing_5",
+    "source": "listing",
+    "text": "Downtown | 2 BR | $480000 | ",
+    "location": "Downtown",
+    "price": 480000,
+    "bedrooms": 2,
+    "link": "http://example.com/6"
+  },
+  {
+    "id": "listing_6",
+    "source": "listing",
+    "text": "Beachside | 5 BR | $1200000 | ",
+    "location": "Beachside",
+    "price": 1200000,
+    "bedrooms": 5,
+    "link": "http://example.com/7"
+  },
+  {
+    "id": "listing_7",
+    "source": "listing",
+    "text": "Old Town | 1 BR | $350000 | ",
+    "location": "Old Town",
+    "price": 350000,
+    "bedrooms": 1,
+    "link": "http://example.com/8"
+  },
+  {
+    "id": "listing_8",
+    "source": "listing",
+    "text": "Midtown | 2 BR | $400000 | ",
+    "location": "Midtown",
+    "price": 400000,
+    "bedrooms": 2,
+    "link": "http://example.com/9"
+  },
+  {
+    "id": "listing_9",
+    "source": "listing",
+    "text": "Suburbs | 2 BR | $280000 | ",
+    "location": "Suburbs",
+    "price": 280000,
+    "bedrooms": 2,
+    "link": "http://example.com/10"
+  }
+]
